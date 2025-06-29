@@ -456,7 +456,7 @@ git push origin feature/new-feature
 - 📖 **Documentation**: This README.
 - 🐛 **Issues**: [GitHub Issues](https://github.com/DevilCoders/File-Finder-Pro-v2.0/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/DevilCoders/File-Finder-Pro-v2.0/discussions)
-- 📧 **Email**: [support@filefinderpro.com](mailto:it24.daniel@gmail.com)
+- 📧 **Email**: [it24.daniel@gmail.com](mailto:it24.daniel@gmail.com)
 
 ### **Useful Resources**
 
