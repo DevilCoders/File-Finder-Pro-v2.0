@@ -89,11 +89,17 @@ chmod +x file-finder-pro.sh
 2. **Select operation mode**:
     
     ```
-    📋 SELECT OPERATION MODE:
-      1) 🔍 Basic Search
-      2) 🔬 Advanced Search with Filters
-      3) 📊 File Analysis Mode
-      ...
+📋 SELECT OPERATION MODE:
+  1) 🔍 Basic Search
+  2) 🔬 Advanced Search with Filters
+  3) 📊 File Analysis Mode
+  4) 🎯 Interactive Search
+  5) 📁 Directory Tree View
+  6) 🔧 Configuration Manager
+  7) 📈 Search Statistics
+  8) 🚀 Batch Operations
+  9) ❓ Help & Documentation
+  0) 🚪 Exit
     ```
     
 3. **For basic search**:
@@ -160,7 +166,7 @@ Perform bulk operations on found files:
 
 - Copy/move files
 - Create archives
-- Generate reports
+- Generate reports (NEED to FIX)
 - Calculate disk usage (NEED to FIX)
 
 ### 9. ❓ **Help & Documentation**
@@ -296,13 +302,13 @@ ffp -e "cpp,h,py,js,java,rb,go" --analyze
                     Professional Edition v2.0
 
 📋 SELECT OPERATION MODE:
-  1) 🔍 Basic Search
+  1) 🔍 Basic Search (NEED to FIX)
   2) 🔬 Advanced Search with Filters
   3) 📊 File Analysis Mode - COMING in v2.1
   4) 🎯 Interactive Search - COMING in v2.1
   5) 📁 Directory Tree View
   6) 🔧 Configuration Manager
-  7) 📈 Search Statistics
+  7) 📈 Search Statistics (NEED to FIX)
   8) 🚀 Batch Operations
   9) ❓ Help & Documentation
   0) 🚪 Exit
@@ -376,9 +382,9 @@ ffp -e "cpp,h,py,js,java,rb,go" --analyze
 - 🎨 Enhanced visual interface with animations
 - 🔧 Advanced filtering and search capabilities
 - 📊 File analysis features (planned for v2.1)
-- ⚙️ Configuration management (planned for v2.1)
-- 📈 Usage statistics and logging (planned for v2.1)
-- 🚀 Batch operations support (planned for v2.1)
+- ⚙️ Configuration management
+- 📈 Usage statistics and logging
+- 🚀 Batch operations support
 
 ### **Version 1.0** (Legacy)
 
