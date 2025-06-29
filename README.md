@@ -8,16 +8,6 @@
 
 ## 📋 Table of Contents
 
-- [Features]()
-- [Installation]()
-- [Quick Start]()
-- [Usage Modes]()
-- [Advanced Features]()
-- [Configuration]()
-- [Examples]()
-- [Screenshots]()
-- [Requirements]()
-
 - [Roadmap](ROADMAP.md)
 
 ---
