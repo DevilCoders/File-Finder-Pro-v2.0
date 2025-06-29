@@ -2,7 +2,7 @@
 
 **A comprehensive, feature-rich file search and analysis tool for developers and system administrators.**
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/DevilCoders/File-Finder-Pro-v2.0) [![License](https://img.shields.io/badge/license-MIT-green.svg)] [![Bash](https://img.shields.io/badge/bash-4.0%2B-orange.svg)](https://www.gnu.org/software/bash/) [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Unix-lightgrey.svg)](https://en.wikipedia.org/wiki/Unix-like)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/DevilCoders/File-Finder-Pro-v2.0) [![Bash](https://img.shields.io/badge/bash-4.0%2B-orange.svg)](https://www.gnu.org/software/bash/) [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Unix-lightgrey.svg)](https://en.wikipedia.org/wiki/Unix-like)
 
 ---
 
