@@ -41,34 +41,13 @@
 
 ## 🚀 Installation
 
-### Debian/Ubuntu Package Installation (Recommended)
-
-1. **Download the `.deb` package**:
-    
-    ```bash
-    wget https://github.com/yourusername/file-finder-pro/releases/latest/download/file-finder-pro_2.0.0_all.deb
-    ```
-    
-2. **Install the package**:
-    
-    ```bash
-    sudo dpkg -i file-finder-pro_2.0.0_all.deb
-    sudo apt-get install -f  # Fix dependencies if needed
-    ```
-    
-3. **Verify installation**:
-    
-    ```bash
-    ffp --version
-    which ffp  # Should return /usr/bin/ffp
-    ```
-    
+# Debian/Ubuntu Installation (Recommended)
 
 ### Quick Install (Script)
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/yourusername/file-finder-pro/main/file-finder-pro.sh
+wget https://raw.githubusercontent.com/DevilCoders/File-Finder-Pro-v2.0/master/file-finder-pro.sh
 
 # Make it executable
 chmod +x file-finder-pro.sh
@@ -95,17 +74,6 @@ git clone https://github.com/yourusername/file-finder-pro.git
 cd file-finder-pro
 chmod +x file-finder-pro.sh
 ./file-finder-pro.sh
-```
-
-### Windows (WSL)
-
-For Windows users, use Windows Subsystem for Linux (WSL):
-
-```bash
-# Install WSL (Ubuntu) on Windows
-wsl --install -d Ubuntu
-
-# Inside WSL, follow Debian/Ubuntu package installation steps
 ```
 
 ---
@@ -178,22 +146,22 @@ Visual representation of directory structure.
 >> Maximum depth (default: 3): 4
 ```
 
-### 6. 🔧 **Configuration Manager** (Planned for v2.1)
+### 6. 🔧 **Configuration Manager**
 
 Manage user preferences and default settings.
 
-### 7. 📈 **Search Statistics** (Planned for v2.1)
+### 7. 📈 **Search Statistics**
 
 View usage history and search patterns.
 
-### 8. 🚀 **Batch Operations** (Planned for v2.1)
+### 8. 🚀 **Batch Operations**
 
 Perform bulk operations on found files:
 
 - Copy/move files
 - Create archives
 - Generate reports
-- Calculate disk usage
+- Calculate disk usage (NEED to FIX)
 
 ### 9. ❓ **Help & Documentation**
 
@@ -330,8 +298,15 @@ ffp -e "cpp,h,py,js,java,rb,go" --analyze
 📋 SELECT OPERATION MODE:
   1) 🔍 Basic Search
   2) 🔬 Advanced Search with Filters
-  3) 📊 File Analysis Mode
-  ...
+  3) 📊 File Analysis Mode - COMING in v2.1
+  4) 🎯 Interactive Search - COMING in v2.1
+  5) 📁 Directory Tree View
+  6) 🔧 Configuration Manager
+  7) 📈 Search Statistics
+  8) 🚀 Batch Operations
+  9) ❓ Help & Documentation
+  0) 🚪 Exit
+
 ```
 
 ### Search Results
@@ -448,22 +423,10 @@ ffp -e "py" -x "node_modules,__pycache__"
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](https://github.com/yourusername/file-finder-pro/blob/main/CONTRIBUTING.md) for details.
-
-### **Types of Contributions**
-
-- 🐛 Bug reports
-- 💡 Feature requests
-- 📝 Documentation improvements
-- 🔧 Code contributions
-- 🧪 Testing on different platforms
-
 ### **Development Setup**
 
 ```bash
-git clone https://github.com/yourusername/file-finder-pro.git
+git clone https://github.com/DevilCoders/File-Finder-Pro-v2.0.git
 cd file-finder-pro
 git checkout -b feature/new-feature
 chmod +x file-finder-pro.sh
@@ -482,42 +445,12 @@ git push origin feature/new-feature
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/file-finder-pro/blob/main/LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 File Finder Pro Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
-
-## 🙏 Acknowledgments
-
-- **Contributors**: Thanks to all who improve File Finder Pro.
-- **Community**: Inspired by the open-source community.
-- **Testers**: Gratitude to beta testers for feedback.
-
----
-
 ## 📞 Support
 
-- 📖 **Documentation**: This README, `man ffp`, or `ffp help`
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/file-finder-pro/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/file-finder-pro/discussions)
-- 📧 **Email**: [support@filefinderpro.com](mailto:support@filefinderpro.com)
+- 📖 **Documentation**: This README.
+- 🐛 **Issues**: [GitHub Issues](https://github.com/DevilCoders/File-Finder-Pro-v2.0/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/DevilCoders/File-Finder-Pro-v2.0/discussions)
+- 📧 **Email**: [support@filefinderpro.com](mailto:it24.daniel@gmail.com)
 
 ### **Useful Resources**
 
@@ -530,7 +463,7 @@ copies or substantial portions of the Software.
 
 ## 🔮 Roadmap
 
-See [ROADMAP.md](https://github.com/yourusername/file-finder-pro/blob/main/ROADMAP.md) for detailed plans.
+See [ROADMAP.md](https://github.com/DevilCoders/File-Finder-Pro-v2.0/blob/main/ROADMAP.md) for detailed plans.
 
 ### **Upcoming Features** (v2.1)
 
@@ -539,6 +472,8 @@ See [ROADMAP.md](https://github.com/yourusername/file-finder-pro/blob/main/ROADM
 - 📱 Mobile Support - Responsive design
 - 🔄 Auto-update - Automatic version checking
 - 🗄️ Database Integration - SQLite for large datasets
+- 📊 File Analysis Mode
+- 🎯 Interactive Search
 
 ### **Future Plans** (v3.0)
 
