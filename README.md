@@ -24,10 +24,10 @@
 
 ### 🔧 **Advanced Tools**
 
-- **Batch Operations** - Copy, move, archive, and generate reports for found files (planned for v2.1).
+- **Batch Operations** - Copy, move, archive, and generate reports for found files.
 - **Directory Tree Visualization** - Visual representation of directory structures using `tree` or `find`.
-- **Configuration Management** - Save and load user preferences (planned for v2.1).
-- **Search Statistics** - Track usage patterns and search history (planned for v2.1).
+- **Configuration Management** - Save and load user preferences.
+- **Search Statistics** - Track usage patterns and search history.
 - **Logging System** - Comprehensive activity logging to `~/.local/share/filefinderpro/logs/`.
 
 ### 🎨 **User Experience**
