@@ -104,7 +104,7 @@ chmod +x file-finder-pro.sh
     
 3. **For basic search**:
     
-    - Enter file extensions: `cpp,h,py,js`
+    - Enter file extensions: `cpp,h,py,js and etc`
     - Specify output directory or use default
     - View results with detailed analysis
 
