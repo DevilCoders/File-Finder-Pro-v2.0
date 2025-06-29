@@ -70,7 +70,7 @@ ffp
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/file-finder-pro.git
+git clone https://github.com/DevilCoders/File-Finder-Pro-v2.0.git
 cd file-finder-pro
 chmod +x file-finder-pro.sh
 ./file-finder-pro.sh
