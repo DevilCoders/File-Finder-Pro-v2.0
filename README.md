@@ -2,24 +2,23 @@
 
 **A comprehensive, feature-rich file search and analysis tool for developers and system administrators.**
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/yourusername/file-finder-pro) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yourusername/file-finder-pro/blob/main/LICENSE) [![Bash](https://img.shields.io/badge/bash-4.0%2B-orange.svg)](https://www.gnu.org/software/bash/) [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Unix-lightgrey.svg)](https://en.wikipedia.org/wiki/Unix-like)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/DevilCoders/File-Finder-Pro-v2.0) [![License](https://img.shields.io/badge/license-MIT-green.svg)] [![Bash](https://img.shields.io/badge/bash-4.0%2B-orange.svg)](https://www.gnu.org/software/bash/) [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Unix-lightgrey.svg)](https://en.wikipedia.org/wiki/Unix-like)
 
 ---
 
 ## 📋 Table of Contents
 
-- [Features](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-features)
-- [Installation](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-installation)
-- [Quick Start](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-quick-start)
-- [Usage Modes](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-usage-modes)
-- [Advanced Features](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-advanced-features)
-- [Configuration](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-configuration)
-- [Examples](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-examples)
-- [Screenshots](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-screenshots)
-- [Requirements](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-requirements)
-- [Contributing](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-contributing)
-- [License](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-license)
-- [Roadmap](https://grok.com/chat/e8a768ee-3726-4a10-a3f1-a29c57d4dfd1#-roadmap)
+- [Features]()
+- [Installation]()
+- [Quick Start]()
+- [Usage Modes]()
+- [Advanced Features]()
+- [Configuration]()
+- [Examples]()
+- [Screenshots]()
+- [Requirements]()
+
+- [Roadmap](ROADMAP.md)
 
 ---
 
